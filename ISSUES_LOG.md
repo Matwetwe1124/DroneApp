@@ -11,4 +11,4 @@
 | Final Deployment                         | Precious            | Deployment           | Drone App       | Month 7 - Deployment           |
 | Document User Onboarding                 | Gopolang            | Documentation        | Drone App       | Month 8 - Documentation        |
 | Prepare Final Presentation               | Sima                | Presentation         | Drone App       | Month 9 - Final Presentation  |
-| Conduct Stakeholder Review               | Musa                | Review               | Drone App       | Month 19 - Final Presentation  |
+| Conduct Stakeholder Review               | Musa                | Review               | Drone App       | Month 10 - Final Presentation  |
